@@ -1,3 +1,4 @@
+
 module.exports = {
   env: {
     browser: true,
@@ -11,7 +12,7 @@ module.exports = {
     ecmaFeatures: {
       jsx: true,
     },
-    ecmaVersion: 'latest',
+    ecmaVersion: 12,
     sourceType: 'module',
   },
   plugins: [
